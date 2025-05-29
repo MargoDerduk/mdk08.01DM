@@ -39,7 +39,7 @@ body{
     color: white;
 }
 .image{
-    background-image: url(/pages/works/pr9/weather-blizzard.jpg);
+    background-image: url(../../../pages/works/pr9/weather-blizzard.jpg);
     width: 100px;
     height: 100px;
 }
