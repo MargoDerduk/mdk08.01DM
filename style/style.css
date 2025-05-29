@@ -72,11 +72,11 @@ article{
     border-radius: 10px;
 }
 .new1{
-    background: url(/img/pr5/24acef8b3a6a45d7239480bcc4ff0193.jpg);
+    background: url(./img/pr5/24acef8b3a6a45d7239480bcc4ff0193.jpg);
     background-size: cover;
 }
 .new2{
-    background: url(/img/pr5/cat_playful_grass_52969_1680x1050.jpg);
+    background: url(./img/pr5/cat_playful_grass_52969_1680x1050.jpg);
     background-size: cover;
 }
 /* ПРАКТИЧЕСКАЯ 8 часть 1 11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111*/
@@ -288,7 +288,7 @@ article{
     color: white;
 }
 .imageee{
-    background-image: url(/pages/works/pr9/weather-blizzard.jpg);
+    background-image: url(./pages/works/pr9/weather-blizzard.jpg);
     width: 100px;
     height: 100px;
 }
@@ -336,23 +336,23 @@ article{
 }
 @font-face {
     font-family: PoppinsBold;
-    src: url(/fonts/Poppins-Bold.ttf);
+    src: url(./fonts/Poppins-Bold.ttf);
 }
 @font-face {
     font-family: PoppinsBlack;
-    src: url(/fonts/Poppins-Black.ttf);
+    src: url(./fonts/Poppins-Black.ttf);
 }
 @font-face {
     font-family: PoppinsLight;
-    src: url(/fonts/Poppins-Light.ttf);
+    src: url(./fonts/Poppins-Light.ttf);
 }
 @font-face {
     font-family: PoppinsMedium;
-    src: url(/fonts/Poppins-Medium.ttf);
+    src: url(./fonts/Poppins-Medium.ttf);
 }
 @font-face {
     font-family: PoppinsThin;
-    src: url(/fonts/Poppins-Thin.ttf);
+    src: url(./fonts/Poppins-Thin.ttf);
 }
 .bodyClass10 h1{
     font-family: 'PoppinsBold';
@@ -394,20 +394,20 @@ article{
     position: relative;
 }
 .imgMan1{
-    background: url(/pages/works/pr10/img/Mask\ Group.jpg);
+    background: url(./pages/works/pr10/img/Mask\ Group.jpg);
     width: 300px;
     height: 400px;
     background-repeat: no-repeat;
 }
 .imgMan2{
-    background: url(/pages/works/pr10/img/Mask\ Group\ \(1\).jpg);
+    background: url(./pages/works/pr10/img/Mask\ Group\ \(1\).jpg);
     width: 300px;
     height: 400px;
     background-repeat: no-repeat;
 }
 .imgMan3{
     position: relative;
-    background: url(/pages/works/pr10/img/Mask\ Group\ \(2\).jpg);
+    background: url(./pages/works/pr10/img/Mask\ Group\ \(2\).jpg);
     width: 300px;
     height: 400px;
     background-repeat: no-repeat;
@@ -415,7 +415,7 @@ article{
 /* PRACTICA 11 111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111 */
 @font-face {
     font-family: price;
-    src: url(/fonts/GreatVibes-Regular.ttf);
+    src: url(./fonts/GreatVibes-Regular.ttf);
 }
 .bodyPR11{
     background-color: #ffffff;
@@ -427,7 +427,7 @@ article{
     justify-content: center;
     width: 1000px;
     height: 900px;
-    background: url(/pages/works/pr11/img/загрузка.jpg);
+    background: url(./pages/works/pr11/img/загрузка.jpg);
 }
 .bodyPR11 .carts{
     padding: 100px;
@@ -446,7 +446,7 @@ article{
 .bodyPR11 .img1{
     display: flex;
     justify-content: right;
-    background: url(/pages/works/pr11/img/Next\ Body\ &\ Hose\ »Baby\ Latzhose\ und\ Body\ mit….jpg);
+    background: url(./pages/works/pr11/img/Next\ Body\ &\ Hose\ »Baby\ Latzhose\ und\ Body\ mit….jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -456,7 +456,7 @@ article{
 .bodyPR11 .img2{
     display: flex;
     justify-content: right;
-    background: url(/pages/works/pr11/img/ac6212ed-085d-4143-9be6-1f63b7afb7e0.jpg);
+    background: url(./pages/works/pr11/img/ac6212ed-085d-4143-9be6-1f63b7afb7e0.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -466,7 +466,7 @@ article{
 .bodyPR11 .img3{
     display: flex;
     justify-content: right;
-    background: url(/pages/works/pr11/img/жилетки!\ 🥝🍡\ напоминаю\,\ что\ можно\ воплотить\ любые….jpg);
+    background: url(./pages/works/pr11/img/жилетки!\ 🥝🍡\ напоминаю\,\ что\ можно\ воплотить\ любые….jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -476,7 +476,7 @@ article{
 .bodyPR11 .img4{
     display: flex;
     justify-content: right;
-    background: url(/pages/works/pr11/img/Brown\ and\ White\ Vintage\ Toddler\ Girls\ Dress\,\ Country-style\ Handmade\ Dress\ for\ Birthday\,\ Family\ Photoshoot\,\ Storybook\ Themed\ Partyhalloween\ -\ Etsy.jpg);
+    background: url(./pages/works/pr11/img/Brown\ and\ White\ Vintage\ Toddler\ Girls\ Dress\,\ Country-style\ Handmade\ Dress\ for\ Birthday\,\ Family\ Photoshoot\,\ Storybook\ Themed\ Partyhalloween\ -\ Etsy.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -486,7 +486,7 @@ article{
 .bodyPR11 .img5{
     display: flex;
     justify-content: right;
-    background: url(/pages/works/pr11/img/47d3eb7c-a520-49db-ba84-c43afdca55cc.jpg);
+    background: url(./pages/works/pr11/img/47d3eb7c-a520-49db-ba84-c43afdca55cc.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -509,7 +509,7 @@ article{
 .imgocenkf{
     width: 60px;
     height: 20px;
-    background: url(/pages/works/pr11/img/Ícone\ de\ vetor\ de\ classificação\ de\ cinco\ estrelas\ _\ Vetor\ Premium.jpg);
+    background: url(./pages/works/pr11/img/Ícone\ de\ vetor\ de\ classificação\ de\ cinco\ estrelas\ _\ Vetor\ Premium.jpg);
     background-size: cover;
     background-position: top;
 }
@@ -666,11 +666,11 @@ figure{
 }
 @font-face {
     font-family: AlumniSans-Italic;
-    src: url(/fonts/AlumniSans-Italic-VariableFont_wght.ttf);
+    src: url(./fonts/AlumniSans-Italic-VariableFont_wght.ttf);
 }
 @font-face {
     font-family: AlumniSans-VariableFont;
-    src: url(/fonts/AlumniSans-VariableFont_wght.ttf);
+    src: url(./fonts/AlumniSans-VariableFont_wght.ttf);
 }
 .main15 h1{
     text-align: center;
@@ -683,24 +683,24 @@ figure{
 
 }
 #pr15 .dog1{
-    background: url(/pages/works/pr15/img/Frame\ 2.png);
+    background: url(./pages/works/pr15/img/Frame\ 2.png);
     
 }
 #pr15 .dog2{
-    background: url(/pages/works/pr15/img/image\ 2.png);
+    background: url(./pages/works/pr15/img/image\ 2.png);
 
     
 }
 #pr15 .dog3{
-    background: url(/pages/works/pr15/img/image\ 3.png);
+    background: url(./pages/works/pr15/img/image\ 3.png);
 
 }
 #pr15 .dog5{
-    background: url(/pages/works/pr15/img/image\ 4.png);
+    background: url(./pages/works/pr15/img/image\ 4.png);
     
 }
 #pr15 .dog6{
-    background: url(/pages/works/pr15/img/image\ 5.png);
+    background: url(./pages/works/pr15/img/image\ 5.png);
     background-position: -20px;
 }
 #pr15 .img15{
@@ -727,11 +727,11 @@ figure{
 /* пр161111111111111111111111111111111111111111111111111111111111111111111111111111 */
 @font-face {
     font-family: Raleway;
-    src: url(/fonts/Raleway-VariableFont_wght.ttf);
+    src: url(./fonts/Raleway-VariableFont_wght.ttf);
 }
 @font-face {
     font-family: RalewayItalic;
-    src: url(/fonts/Raleway-Italic-VariableFont_wght.ttf);
+    src: url(./fonts/Raleway-Italic-VariableFont_wght.ttf);
 }
 *{
     font-family: Raleway;
@@ -744,7 +744,7 @@ figure{
 
 #body16 .img16{
     position: relative;
-    background: url(/pages/works/pr16/img/BG1.png);
+    background: url(./pages/works/pr16/img/BG1.png);
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
@@ -795,7 +795,7 @@ figure{
     position: relative;
     top: 80px;
     left: 230px;
-    background: url(/pages/works/pr16/img/logo.png);
+    background: url(./pages/works/pr16/img/logo.png);
     background-size: cover;
     width: 180px;
     height: 55px;
@@ -832,7 +832,7 @@ figure{
     font-size: 20px;
 }
 #body16 .knop .google .logo{
-    background: url(/pages/works/pr16/img/google_play.png);
+    background: url(./pages/works/pr16/img/google_play.png);
     width: 40px;
     height: 40px;
     background-size: cover;
@@ -887,21 +887,21 @@ figure{
     gap: 30px;
 }
 #body16 .servic .one .img{
-    background: url(/pages/works/pr16/img/icon1.png);
+    background: url(./pages/works/pr16/img/icon1.png);
     width: 120px;
     height: 120px;
     background-size: cover;
     margin: 0 40%;
 }
 #body16 .servic .two .img{
-    background: url(/pages/works/pr16/img/icon2.png);
+    background: url(./pages/works/pr16/img/icon2.png);
     width: 160px;
     height: 120px;
     background-size: cover;
     margin: 0 33%;
 }
 #body16 .servic .three .img{
-    background: url(/pages/works/pr16/img/icon3.png);
+    background: url(./pages/works/pr16/img/icon3.png);
     width: 120px;
     height: 120px;
     background-size: cover;
@@ -943,7 +943,7 @@ figure{
 }
 #body16 .otherservices .otherse .one .img{
     position: relative;
-    background: url(/pages/works/pr16/img/i1.png);
+    background: url(./pages/works/pr16/img/i1.png);
     top: 30px;
     right: 50px;
     width: 40px;
@@ -952,7 +952,7 @@ figure{
 }
 #body16 .otherservices .otherse .two .img{
     position: relative;
-    background: url(/pages/works/pr16/img/Browser.png);
+    background: url(./pages/works/pr16/img/Browser.png);
     top: 35px;
     right: 90px;
     width: 65px;
@@ -961,7 +961,7 @@ figure{
 }
 #body16 .otherservices .otherse .three .img{
     position: relative;
-    background: url(/pages/works/pr16/img/Game.png);
+    background: url(./pages/works/pr16/img/Game.png);
     top: 35px;
     right: 90px;
     width: 69px;
@@ -970,7 +970,7 @@ figure{
 }
 #body16 .otherservices .otherse .for .img{
     position: relative;
-    background: url(/pages/works/pr16/img/ResizeDown.png);
+    background: url(./pages/works/pr16/img/ResizeDown.png);
     top: 30px;
     right: 90px;
     width: 60px;
@@ -979,7 +979,7 @@ figure{
 }
 #body16 .otherservices .otherse .five .img{
     position: relative;
-    background: url(/pages/works/pr16/img/Cart.png);
+    background: url(./pages/works/pr16/img/Cart.png);
     top: 30px;
     right: 90px;
     width: 65px;
@@ -988,7 +988,7 @@ figure{
 }
 #body16 .otherservices .otherse .six .img{
     position: relative;
-    background: url(/pages/works/pr16/img/Gift.png);
+    background: url(./pages/works/pr16/img/Gift.png);
     top: 30px;
     right: 90px;
     width: 65px;
@@ -1055,7 +1055,7 @@ figure{
     position: relative;
     top: 0px;
     left: 50px;
-    background: url(/pages/works/pr16/img/logo2.png);
+    background: url(./pages/works/pr16/img/logo2.png);
     background-size: cover;
     width: 180px;
     height: 55px;
@@ -1084,19 +1084,19 @@ figure{
     cursor: pointer;
 }
 #body16 footer .infobr .logo .face{
-    background: url(/pages/works/pr16/img/facebook.png);
+    background: url(./pages/works/pr16/img/facebook.png);
     width: 30px;
     height: 30px;
     background-size: cover;
 }
 #body16 footer .infobr .logo .gol{
-    background: url(/pages/works/pr16/img/google_plus.png);
+    background: url(./pages/works/pr16/img/google_plus.png);
         width: 30px;
     height: 30px;
     background-size: cover;
 }
 #body16 footer .infobr .logo .twit{
-    background: url(/pages/works/pr16/img/twitter.png);
+    background: url(./pages/works/pr16/img/twitter.png);
     width: 30px;
     height: 30px;
     background-size: cover;
@@ -1113,7 +1113,7 @@ figure{
 }
 #body17 header .create{
     position: absolute;
-    background: url(/pages/works/pr17/img/131.png);
+    background: url(./pages/works/pr17/img/131.png);
     top: 150px;
     left: 400px;
     width: 60px;
@@ -1124,11 +1124,11 @@ figure{
     padding-left: 20px;
     padding-right: 20px;
     padding-top: 10px ;
-    background: url(/pages/works/pr17/img/Plant\ A\ Garden.jpg);
+    background: url(./pages/works/pr17/img/Plant\ A\ Garden.jpg);
     background-position: -200px -200px;
 }
 #body17 header .menu{
-    background: url(/pages/works/pr17/img/103.png);
+    background: url(./pages/works/pr17/img/103.png);
 
     width: 40px;
     height: 40px;
@@ -1138,7 +1138,7 @@ figure{
     display: flex;
 }
 #body17 .search .img1{
-    background: url(/pages/works/pr17/img/102.png);
+    background: url(./pages/works/pr17/img/102.png);
     width: 40px;
     height: 40px;
     background-size: cover;
@@ -1159,7 +1159,7 @@ figure{
     height: 45px;
 }
 #body17 .search .img3{
-    background: url(/pages/works/pr17/img/121.png);
+    background: url(./pages/works/pr17/img/121.png);
     width: 40px;
     height: 40px;
     background-size: cover;
@@ -1200,7 +1200,7 @@ figure{
     padding: 10px 20px;
 }
 #body17 main .clas1 .avatar{
-    background: url(/pages/works/pr17/img/113.png);
+    background: url(./pages/works/pr17/img/113.png);
     width: 60px;
     height: 60px;
     background-size: cover;
@@ -1227,13 +1227,13 @@ figure{
     padding-left:5px ;
 }
 #body17 main .clas1 .imgclas1 .img1{
-    background: url(/pages/works/pr17/img/32.png);
+    background: url(./pages/works/pr17/img/32.png);
     background-size: cover;
     width: 200px;
     height: 150px;
 }
 #body17 main .clas1 .imgclas1 .img2{
-    background: url(/pages/works/pr17/img/127.png);
+    background: url(./pages/works/pr17/img/127.png);
     background-size: cover;
     width: 200px;
     height: 150px;
@@ -1266,7 +1266,7 @@ figure{
     margin-top: 30px;
 }
 #body17 main .clas2 .avatar{
-    background: url(/pages/works/pr17/img/114.png);
+    background: url(./pages/works/pr17/img/114.png);
     width: 60px;
     height: 60px;
     background-size: cover;
@@ -1278,7 +1278,7 @@ figure{
     justify-content: right;
 }
 #body17 main .clas2 .img1{
-    background: url(/pages/works/pr17/img/126.png);
+    background: url(./pages/works/pr17/img/126.png);
     background-size: cover;
     width: 400px;
     height: 300px;
@@ -1286,19 +1286,19 @@ figure{
     margin-bottom: 30px;
 }
 #body17 main .fichi .likee{
-    background: url(/pages/works/pr17/img/6.png);
+    background: url(./pages/works/pr17/img/6.png);
     width: 10px;
     height: 10px;
     background-size: cover;
 }
 #body17 main .fichi .come{
-    background: url(/pages/works/pr17/img/4.png);
+    background: url(./pages/works/pr17/img/4.png);
     width: 10px;
     height: 10px;
     background-size: cover;
 }
 #body17 main .fichi .sharee{
-    background: url(/pages/works/pr17/img/82.png);
+    background: url(./pages/works/pr17/img/82.png);
     width: 10px;
     height: 10px;
     background-size: cover;
@@ -1371,7 +1371,7 @@ figure{
 }
 #body18 .wrapcom .commen1 .img1{
     margin-right:10px ;
-    background: url(/pages/works/pr18/img/Американская\ Вечеринка.jpg);
+    background: url(./pages/works/pr18/img/Американская\ Вечеринка.jpg);
     background-size: cover;
     border-radius: 100%;
     width: 70px;
@@ -1379,7 +1379,7 @@ figure{
 }
 #body18 .wrapcom .commen2 .img2{
     margin-right:10px ;
-    background: url(/pages/works/pr18/img/994ab4d918ac52029d3cb14c73799ed1.png);
+    background: url(./pages/works/pr18/img/994ab4d918ac52029d3cb14c73799ed1.png);
     background-size: cover;
     border-radius: 100%;
     width: 70px;
